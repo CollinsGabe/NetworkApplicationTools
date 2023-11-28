@@ -1,0 +1,1303 @@
+Option 5 result:
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-11-28 15:13 EST
+Initiating Ping Scan at 15:13
+Scanning 256 hosts [4 ports/host]
+Ping Scan Timing: About 15.14% done; ETC: 15:16 (0:02:54 remaining)
+Completed Ping Scan at 15:14, 50.84s elapsed (256 total hosts)
+Initiating Parallel DNS resolution of 256 hosts. at 15:14
+Completed Parallel DNS resolution of 256 hosts. at 15:14, 19.64s elapsed
+Initiating SYN Stealth Scan at 15:14
+Scanning 64 hosts [1000 ports/host]
+SYN Stealth Scan Timing: About 49.60% done; ETC: 15:15 (0:00:31 remaining)
+Completed SYN Stealth Scan against 192.168.1.57 in 54.00s (63 hosts left)
+Completed SYN Stealth Scan against 192.168.1.50 in 54.32s (62 hosts left)
+Completed SYN Stealth Scan against 192.168.1.63 in 54.34s (61 hosts left)
+Completed SYN Stealth Scan against 192.168.1.25 in 54.40s (60 hosts left)
+Completed SYN Stealth Scan against 192.168.1.62 in 54.42s (59 hosts left)
+Completed SYN Stealth Scan against 192.168.1.45 in 54.54s (58 hosts left)
+Completed SYN Stealth Scan against 192.168.1.46 in 54.55s (57 hosts left)
+Completed SYN Stealth Scan against 192.168.1.0 in 54.58s (56 hosts left)
+Completed SYN Stealth Scan against 192.168.1.27 in 54.63s (55 hosts left)
+Completed SYN Stealth Scan against 192.168.1.38 in 54.63s (54 hosts left)
+Completed SYN Stealth Scan against 192.168.1.31 in 54.71s (53 hosts left)
+Completed SYN Stealth Scan against 192.168.1.39 in 54.75s (52 hosts left)
+Completed SYN Stealth Scan against 192.168.1.21 in 54.76s (51 hosts left)
+Completed SYN Stealth Scan against 192.168.1.56 in 54.76s (50 hosts left)
+Completed SYN Stealth Scan against 192.168.1.26 in 54.77s (49 hosts left)
+Completed SYN Stealth Scan against 192.168.1.18 in 54.80s (48 hosts left)
+Completed SYN Stealth Scan against 192.168.1.13 in 54.82s (47 hosts left)
+Completed SYN Stealth Scan against 192.168.1.24 in 54.83s (46 hosts left)
+Completed SYN Stealth Scan against 192.168.1.30 in 54.84s (45 hosts left)
+Completed SYN Stealth Scan against 192.168.1.58 in 54.93s (44 hosts left)
+Completed SYN Stealth Scan against 192.168.1.47 in 54.97s (43 hosts left)
+Completed SYN Stealth Scan against 192.168.1.17 in 54.98s (42 hosts left)
+Completed SYN Stealth Scan against 192.168.1.51 in 54.98s (41 hosts left)
+Completed SYN Stealth Scan against 192.168.1.19 in 54.98s (40 hosts left)
+Completed SYN Stealth Scan against 192.168.1.28 in 54.98s (39 hosts left)
+Completed SYN Stealth Scan against 192.168.1.53 in 54.99s (38 hosts left)
+Completed SYN Stealth Scan against 192.168.1.1 in 54.99s (37 hosts left)
+Completed SYN Stealth Scan against 192.168.1.20 in 55.23s (36 hosts left)
+Completed SYN Stealth Scan against 192.168.1.7 in 55.24s (35 hosts left)
+Completed SYN Stealth Scan against 192.168.1.22 in 55.24s (34 hosts left)
+Completed SYN Stealth Scan against 192.168.1.37 in 55.24s (33 hosts left)
+Completed SYN Stealth Scan against 192.168.1.40 in 55.24s (32 hosts left)
+Completed SYN Stealth Scan against 192.168.1.54 in 55.24s (31 hosts left)
+Completed SYN Stealth Scan against 192.168.1.59 in 55.24s (30 hosts left)
+Completed SYN Stealth Scan against 192.168.1.60 in 55.24s (29 hosts left)
+Completed SYN Stealth Scan against 192.168.1.61 in 55.24s (28 hosts left)
+Completed SYN Stealth Scan against 192.168.1.44 in 55.33s (27 hosts left)
+Completed SYN Stealth Scan against 192.168.1.8 in 55.34s (26 hosts left)
+Completed SYN Stealth Scan against 192.168.1.29 in 55.34s (25 hosts left)
+Completed SYN Stealth Scan against 192.168.1.41 in 55.34s (24 hosts left)
+Completed SYN Stealth Scan against 192.168.1.49 in 55.34s (23 hosts left)
+Completed SYN Stealth Scan against 192.168.1.12 in 55.35s (22 hosts left)
+Completed SYN Stealth Scan against 192.168.1.10 in 55.35s (21 hosts left)
+Completed SYN Stealth Scan against 192.168.1.34 in 55.35s (20 hosts left)
+Completed SYN Stealth Scan against 192.168.1.4 in 55.35s (19 hosts left)
+Completed SYN Stealth Scan against 192.168.1.16 in 55.35s (18 hosts left)
+Completed SYN Stealth Scan against 192.168.1.42 in 55.36s (17 hosts left)
+Completed SYN Stealth Scan against 192.168.1.5 in 55.46s (16 hosts left)
+Completed SYN Stealth Scan against 192.168.1.55 in 55.46s (15 hosts left)
+Completed SYN Stealth Scan against 192.168.1.14 in 55.47s (14 hosts left)
+Completed SYN Stealth Scan against 192.168.1.52 in 55.47s (13 hosts left)
+Completed SYN Stealth Scan against 192.168.1.2 in 55.48s (12 hosts left)
+Completed SYN Stealth Scan against 192.168.1.9 in 55.48s (11 hosts left)
+Completed SYN Stealth Scan against 192.168.1.48 in 55.48s (10 hosts left)
+Completed SYN Stealth Scan against 192.168.1.32 in 55.48s (9 hosts left)
+Completed SYN Stealth Scan against 192.168.1.36 in 55.48s (8 hosts left)
+Completed SYN Stealth Scan against 192.168.1.3 in 55.48s (7 hosts left)
+Completed SYN Stealth Scan against 192.168.1.15 in 55.48s (6 hosts left)
+Completed SYN Stealth Scan against 192.168.1.23 in 55.48s (5 hosts left)
+Completed SYN Stealth Scan against 192.168.1.33 in 55.48s (4 hosts left)
+Completed SYN Stealth Scan against 192.168.1.35 in 55.48s (3 hosts left)
+Completed SYN Stealth Scan against 192.168.1.43 in 55.48s (2 hosts left)
+Completed SYN Stealth Scan against 192.168.1.6 in 55.49s (1 host left)
+Completed SYN Stealth Scan at 15:15, 55.49s elapsed (64000 total ports)
+Nmap scan report for 192.168.1.0
+Host is up (0.00073s latency).
+All 1000 scanned ports on 192.168.1.0 are filtered
+
+Nmap scan report for 192.168.1.1
+Host is up (0.00067s latency).
+All 1000 scanned ports on 192.168.1.1 are filtered
+
+Nmap scan report for 192.168.1.2
+Host is up (0.00082s latency).
+All 1000 scanned ports on 192.168.1.2 are filtered
+
+Nmap scan report for 192.168.1.3
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.3 are filtered
+
+Nmap scan report for 192.168.1.4
+Host is up (0.00085s latency).
+All 1000 scanned ports on 192.168.1.4 are filtered
+
+Nmap scan report for 192.168.1.5
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.5 are filtered
+
+Nmap scan report for 192.168.1.6
+Host is up (0.00088s latency).
+All 1000 scanned ports on 192.168.1.6 are filtered
+
+Nmap scan report for 192.168.1.7
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.7 are filtered
+
+Nmap scan report for 192.168.1.8
+Host is up (0.00097s latency).
+All 1000 scanned ports on 192.168.1.8 are filtered
+
+Nmap scan report for 192.168.1.9
+Host is up (0.00097s latency).
+All 1000 scanned ports on 192.168.1.9 are filtered
+
+Nmap scan report for 192.168.1.10
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.10 are filtered
+
+Nmap scan report for 192.168.1.11
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.11 are filtered
+
+Nmap scan report for 192.168.1.12
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.12 are filtered
+
+Nmap scan report for 192.168.1.13
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.13 are filtered
+
+Nmap scan report for 192.168.1.14
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.14 are filtered
+
+Nmap scan report for 192.168.1.15
+Host is up (0.00068s latency).
+All 1000 scanned ports on 192.168.1.15 are filtered
+
+Nmap scan report for 192.168.1.16
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.16 are filtered
+
+Nmap scan report for 192.168.1.17
+Host is up (0.00082s latency).
+All 1000 scanned ports on 192.168.1.17 are filtered
+
+Nmap scan report for 192.168.1.18
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.18 are filtered
+
+Nmap scan report for 192.168.1.19
+Host is up (0.00068s latency).
+All 1000 scanned ports on 192.168.1.19 are filtered
+
+Nmap scan report for 192.168.1.20
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.20 are filtered
+
+Nmap scan report for 192.168.1.21
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.21 are filtered
+
+Nmap scan report for 192.168.1.22
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.22 are filtered
+
+Nmap scan report for 192.168.1.23
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.23 are filtered
+
+Nmap scan report for 192.168.1.24
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.24 are filtered
+
+Nmap scan report for 192.168.1.25
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.25 are filtered
+
+Nmap scan report for 192.168.1.26
+Host is up (0.00070s latency).
+All 1000 scanned ports on 192.168.1.26 are filtered
+
+Nmap scan report for 192.168.1.27
+Host is up (0.00073s latency).
+All 1000 scanned ports on 192.168.1.27 are filtered
+
+Nmap scan report for 192.168.1.28
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.28 are filtered
+
+Nmap scan report for 192.168.1.29
+Host is up (0.00078s latency).
+All 1000 scanned ports on 192.168.1.29 are filtered
+
+Nmap scan report for 192.168.1.30
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.30 are filtered
+
+Nmap scan report for 192.168.1.31
+Host is up (0.00085s latency).
+All 1000 scanned ports on 192.168.1.31 are filtered
+
+Nmap scan report for 192.168.1.32
+Host is up (0.00089s latency).
+All 1000 scanned ports on 192.168.1.32 are filtered
+
+Nmap scan report for 192.168.1.33
+Host is up (0.00089s latency).
+All 1000 scanned ports on 192.168.1.33 are filtered
+
+Nmap scan report for 192.168.1.34
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.34 are filtered
+
+Nmap scan report for 192.168.1.35
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.35 are filtered
+
+Nmap scan report for 192.168.1.36
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.36 are filtered
+
+Nmap scan report for 192.168.1.37
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.37 are filtered
+
+Nmap scan report for 192.168.1.38
+Host is up (0.00070s latency).
+All 1000 scanned ports on 192.168.1.38 are filtered
+
+Nmap scan report for 192.168.1.39
+Host is up (0.00072s latency).
+All 1000 scanned ports on 192.168.1.39 are filtered
+
+Nmap scan report for 192.168.1.40
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.40 are filtered
+
+Nmap scan report for 192.168.1.41
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.41 are filtered
+
+Nmap scan report for 192.168.1.42
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.42 are filtered
+
+Nmap scan report for 192.168.1.43
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.43 are filtered
+
+Nmap scan report for 192.168.1.44
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.44 are filtered
+
+Nmap scan report for 192.168.1.45
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.45 are filtered
+
+Nmap scan report for 192.168.1.46
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.46 are filtered
+
+Nmap scan report for 192.168.1.47
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.47 are filtered
+
+Nmap scan report for 192.168.1.48
+Host is up (0.0013s latency).
+All 1000 scanned ports on 192.168.1.48 are filtered
+
+Nmap scan report for 192.168.1.49
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.49 are filtered
+
+Nmap scan report for 192.168.1.50
+Host is up (0.0015s latency).
+All 1000 scanned ports on 192.168.1.50 are filtered
+
+Nmap scan report for 192.168.1.51
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.51 are filtered
+
+Nmap scan report for 192.168.1.52
+Host is up (0.0014s latency).
+All 1000 scanned ports on 192.168.1.52 are filtered
+
+Nmap scan report for 192.168.1.53
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.53 are filtered
+
+Nmap scan report for 192.168.1.54
+Host is up (0.00070s latency).
+All 1000 scanned ports on 192.168.1.54 are filtered
+
+Nmap scan report for 192.168.1.55
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.55 are filtered
+
+Nmap scan report for 192.168.1.56
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.56 are filtered
+
+Nmap scan report for 192.168.1.57
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.57 are filtered
+
+Nmap scan report for 192.168.1.58
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.58 are filtered
+
+Nmap scan report for 192.168.1.59
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.59 are filtered
+
+Nmap scan report for 192.168.1.60
+Host is up (0.00098s latency).
+All 1000 scanned ports on 192.168.1.60 are filtered
+
+Nmap scan report for 192.168.1.61
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.61 are filtered
+
+Nmap scan report for 192.168.1.62
+Host is up (0.00070s latency).
+All 1000 scanned ports on 192.168.1.62 are filtered
+
+Nmap scan report for 192.168.1.63
+Host is up (0.00068s latency).
+All 1000 scanned ports on 192.168.1.63 are filtered
+
+Initiating SYN Stealth Scan at 15:15
+Scanning 64 hosts [1000 ports/host]
+Completed SYN Stealth Scan against 192.168.1.81 in 50.54s (63 hosts left)
+Completed SYN Stealth Scan against 192.168.1.64 in 50.79s (62 hosts left)
+Completed SYN Stealth Scan against 192.168.1.72 in 50.90s (61 hosts left)
+Completed SYN Stealth Scan against 192.168.1.86 in 50.90s (60 hosts left)
+Completed SYN Stealth Scan against 192.168.1.104 in 50.90s (59 hosts left)
+Completed SYN Stealth Scan against 192.168.1.75 in 51.02s (58 hosts left)
+Completed SYN Stealth Scan against 192.168.1.65 in 51.06s (57 hosts left)
+Completed SYN Stealth Scan against 192.168.1.87 in 51.07s (56 hosts left)
+Completed SYN Stealth Scan against 192.168.1.69 in 51.11s (55 hosts left)
+Completed SYN Stealth Scan against 192.168.1.100 in 51.11s (54 hosts left)
+Completed SYN Stealth Scan against 192.168.1.70 in 51.14s (53 hosts left)
+Completed SYN Stealth Scan against 192.168.1.80 in 51.26s (52 hosts left)
+Completed SYN Stealth Scan against 192.168.1.103 in 51.27s (51 hosts left)
+Completed SYN Stealth Scan against 192.168.1.115 in 51.27s (50 hosts left)
+Completed SYN Stealth Scan against 192.168.1.73 in 51.30s (49 hosts left)
+Completed SYN Stealth Scan against 192.168.1.92 in 51.31s (48 hosts left)
+Completed SYN Stealth Scan against 192.168.1.71 in 51.33s (47 hosts left)
+Completed SYN Stealth Scan against 192.168.1.127 in 51.33s (46 hosts left)
+Completed SYN Stealth Scan against 192.168.1.111 in 51.35s (45 hosts left)
+Completed SYN Stealth Scan against 192.168.1.79 in 51.44s (44 hosts left)
+Completed SYN Stealth Scan against 192.168.1.126 in 51.45s (43 hosts left)
+Completed SYN Stealth Scan against 192.168.1.119 in 51.47s (42 hosts left)
+Completed SYN Stealth Scan against 192.168.1.74 in 51.48s (41 hosts left)
+Completed SYN Stealth Scan against 192.168.1.85 in 51.48s (40 hosts left)
+Completed SYN Stealth Scan against 192.168.1.116 in 51.50s (39 hosts left)
+Completed SYN Stealth Scan against 192.168.1.82 in 51.51s (38 hosts left)
+Completed SYN Stealth Scan against 192.168.1.101 in 51.52s (37 hosts left)
+Completed SYN Stealth Scan against 192.168.1.66 in 51.52s (36 hosts left)
+Completed SYN Stealth Scan against 192.168.1.76 in 51.52s (35 hosts left)
+Completed SYN Stealth Scan against 192.168.1.107 in 51.52s (34 hosts left)
+Completed SYN Stealth Scan against 192.168.1.108 in 51.53s (33 hosts left)
+Completed SYN Stealth Scan against 192.168.1.120 in 51.53s (32 hosts left)
+Completed SYN Stealth Scan against 192.168.1.78 in 51.54s (31 hosts left)
+Completed SYN Stealth Scan against 192.168.1.99 in 51.54s (30 hosts left)
+Completed SYN Stealth Scan against 192.168.1.84 in 51.56s (29 hosts left)
+Completed SYN Stealth Scan against 192.168.1.105 in 51.56s (28 hosts left)
+Completed SYN Stealth Scan against 192.168.1.88 in 51.68s (27 hosts left)
+Completed SYN Stealth Scan against 192.168.1.91 in 51.68s (26 hosts left)
+Completed SYN Stealth Scan against 192.168.1.93 in 51.68s (25 hosts left)
+Completed SYN Stealth Scan against 192.168.1.109 in 51.69s (24 hosts left)
+Completed SYN Stealth Scan against 192.168.1.106 in 51.70s (23 hosts left)
+Completed SYN Stealth Scan against 192.168.1.97 in 51.71s (22 hosts left)
+Completed SYN Stealth Scan against 192.168.1.123 in 51.71s (21 hosts left)
+Completed SYN Stealth Scan against 192.168.1.118 in 51.72s (20 hosts left)
+Completed SYN Stealth Scan against 192.168.1.102 in 51.73s (19 hosts left)
+Completed SYN Stealth Scan against 192.168.1.110 in 51.73s (18 hosts left)
+Completed SYN Stealth Scan against 192.168.1.67 in 51.73s (17 hosts left)
+Completed SYN Stealth Scan against 192.168.1.112 in 51.73s (16 hosts left)
+Completed SYN Stealth Scan against 192.168.1.122 in 51.73s (15 hosts left)
+Completed SYN Stealth Scan against 192.168.1.68 in 51.73s (14 hosts left)
+Completed SYN Stealth Scan against 192.168.1.83 in 51.74s (13 hosts left)
+Completed SYN Stealth Scan against 192.168.1.98 in 51.74s (12 hosts left)
+Completed SYN Stealth Scan against 192.168.1.96 in 51.74s (11 hosts left)
+Completed SYN Stealth Scan against 192.168.1.121 in 51.75s (10 hosts left)
+Completed SYN Stealth Scan against 192.168.1.89 in 51.75s (9 hosts left)
+Completed SYN Stealth Scan against 192.168.1.114 in 51.76s (8 hosts left)
+Completed SYN Stealth Scan against 192.168.1.77 in 51.76s (7 hosts left)
+Completed SYN Stealth Scan against 192.168.1.90 in 51.76s (6 hosts left)
+Completed SYN Stealth Scan against 192.168.1.117 in 51.76s (5 hosts left)
+Completed SYN Stealth Scan against 192.168.1.94 in 51.79s (4 hosts left)
+Completed SYN Stealth Scan against 192.168.1.113 in 51.82s (3 hosts left)
+Completed SYN Stealth Scan against 192.168.1.125 in 51.82s (2 hosts left)
+Completed SYN Stealth Scan against 192.168.1.95 in 51.84s (1 host left)
+Completed SYN Stealth Scan at 15:16, 51.84s elapsed (64000 total ports)
+Nmap scan report for 192.168.1.64
+Host is up (0.0019s latency).
+All 1000 scanned ports on 192.168.1.64 are filtered
+
+Nmap scan report for 192.168.1.65
+Host is up (0.00096s latency).
+All 1000 scanned ports on 192.168.1.65 are filtered
+
+Nmap scan report for 192.168.1.66
+Host is up (0.00078s latency).
+All 1000 scanned ports on 192.168.1.66 are filtered
+
+Nmap scan report for 192.168.1.67
+Host is up (0.0017s latency).
+All 1000 scanned ports on 192.168.1.67 are filtered
+
+Nmap scan report for 192.168.1.68
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.68 are filtered
+
+Nmap scan report for 192.168.1.69
+Host is up (0.00093s latency).
+All 1000 scanned ports on 192.168.1.69 are filtered
+
+Nmap scan report for 192.168.1.70
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.70 are filtered
+
+Nmap scan report for 192.168.1.71
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.71 are filtered
+
+Nmap scan report for 192.168.1.72
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.72 are filtered
+
+Nmap scan report for 192.168.1.73
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.73 are filtered
+
+Nmap scan report for 192.168.1.74
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.74 are filtered
+
+Nmap scan report for 192.168.1.75
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.75 are filtered
+
+Nmap scan report for 192.168.1.76
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.76 are filtered
+
+Nmap scan report for 192.168.1.77
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.77 are filtered
+
+Nmap scan report for 192.168.1.78
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.78 are filtered
+
+Nmap scan report for 192.168.1.79
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.79 are filtered
+
+Nmap scan report for 192.168.1.80
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.80 are filtered
+
+Nmap scan report for 192.168.1.81
+Host is up (0.00098s latency).
+All 1000 scanned ports on 192.168.1.81 are filtered
+
+Nmap scan report for 192.168.1.82
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.82 are filtered
+
+Nmap scan report for 192.168.1.83
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.83 are filtered
+
+Nmap scan report for 192.168.1.84
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.84 are filtered
+
+Nmap scan report for 192.168.1.85
+Host is up (0.00067s latency).
+All 1000 scanned ports on 192.168.1.85 are filtered
+
+Nmap scan report for 192.168.1.86
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.86 are filtered
+
+Nmap scan report for 192.168.1.87
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.87 are filtered
+
+Nmap scan report for 192.168.1.88
+Host is up (0.00097s latency).
+All 1000 scanned ports on 192.168.1.88 are filtered
+
+Nmap scan report for 192.168.1.89
+Host is up (0.00085s latency).
+All 1000 scanned ports on 192.168.1.89 are filtered
+
+Nmap scan report for 192.168.1.90
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.90 are filtered
+
+Nmap scan report for 192.168.1.91
+Host is up (0.00093s latency).
+All 1000 scanned ports on 192.168.1.91 are filtered
+
+Nmap scan report for 192.168.1.92
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.92 are filtered
+
+Nmap scan report for 192.168.1.93
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.93 are filtered
+
+Nmap scan report for 192.168.1.94
+Host is up (0.00093s latency).
+All 1000 scanned ports on 192.168.1.94 are filtered
+
+Nmap scan report for 192.168.1.95
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.95 are filtered
+
+Nmap scan report for 192.168.1.96
+Host is up (0.00095s latency).
+All 1000 scanned ports on 192.168.1.96 are filtered
+
+Nmap scan report for 192.168.1.97
+Host is up (0.00095s latency).
+All 1000 scanned ports on 192.168.1.97 are filtered
+
+Nmap scan report for 192.168.1.98
+Host is up (0.00067s latency).
+All 1000 scanned ports on 192.168.1.98 are filtered
+
+Nmap scan report for 192.168.1.99
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.99 are filtered
+
+Nmap scan report for 192.168.1.100
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.100 are filtered
+
+Nmap scan report for 192.168.1.101
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.101 are filtered
+
+Nmap scan report for 192.168.1.102
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.102 are filtered
+
+Nmap scan report for 192.168.1.103
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.103 are filtered
+
+Nmap scan report for 192.168.1.104
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.104 are filtered
+
+Nmap scan report for 192.168.1.105
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.105 are filtered
+
+Nmap scan report for 192.168.1.106
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.106 are filtered
+
+Nmap scan report for 192.168.1.107
+Host is up (0.00083s latency).
+All 1000 scanned ports on 192.168.1.107 are filtered
+
+Nmap scan report for 192.168.1.108
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.108 are filtered
+
+Nmap scan report for 192.168.1.109
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.109 are filtered
+
+Nmap scan report for 192.168.1.110
+Host is up (0.00095s latency).
+All 1000 scanned ports on 192.168.1.110 are filtered
+
+Nmap scan report for 192.168.1.111
+Host is up (0.00089s latency).
+All 1000 scanned ports on 192.168.1.111 are filtered
+
+Nmap scan report for 192.168.1.112
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.112 are filtered
+
+Nmap scan report for 192.168.1.113
+Host is up (0.00097s latency).
+All 1000 scanned ports on 192.168.1.113 are filtered
+
+Nmap scan report for 192.168.1.114
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.114 are filtered
+
+Nmap scan report for 192.168.1.115
+Host is up (0.00098s latency).
+All 1000 scanned ports on 192.168.1.115 are filtered
+
+Nmap scan report for 192.168.1.116
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.116 are filtered
+
+Nmap scan report for 192.168.1.117
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.117 are filtered
+
+Nmap scan report for 192.168.1.118
+Host is up (0.0018s latency).
+All 1000 scanned ports on 192.168.1.118 are filtered
+
+Nmap scan report for 192.168.1.119
+Host is up (0.0017s latency).
+All 1000 scanned ports on 192.168.1.119 are filtered
+
+Nmap scan report for 192.168.1.120
+Host is up (0.0016s latency).
+All 1000 scanned ports on 192.168.1.120 are filtered
+
+Nmap scan report for 192.168.1.121
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.121 are filtered
+
+Nmap scan report for 192.168.1.122
+Host is up (0.0013s latency).
+All 1000 scanned ports on 192.168.1.122 are filtered
+
+Nmap scan report for 192.168.1.123
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.123 are filtered
+
+Nmap scan report for 192.168.1.124
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.124 are filtered
+
+Nmap scan report for 192.168.1.125
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.125 are filtered
+
+Nmap scan report for 192.168.1.126
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.126 are filtered
+
+Nmap scan report for 192.168.1.127
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.127 are filtered
+
+Initiating SYN Stealth Scan at 15:16
+Scanning 64 hosts [1000 ports/host]
+SYN Stealth Scan Timing: About 50.39% done; ETC: 15:17 (0:00:31 remaining)
+Completed SYN Stealth Scan against 192.168.1.140 in 53.67s (63 hosts left)
+Completed SYN Stealth Scan against 192.168.1.166 in 53.68s (62 hosts left)
+Completed SYN Stealth Scan against 192.168.1.136 in 53.87s (61 hosts left)
+Completed SYN Stealth Scan against 192.168.1.184 in 53.89s (60 hosts left)
+Completed SYN Stealth Scan against 192.168.1.139 in 54.06s (59 hosts left)
+Completed SYN Stealth Scan against 192.168.1.151 in 54.06s (58 hosts left)
+Completed SYN Stealth Scan against 192.168.1.171 in 54.06s (57 hosts left)
+Completed SYN Stealth Scan against 192.168.1.189 in 54.07s (56 hosts left)
+Completed SYN Stealth Scan against 192.168.1.131 in 54.08s (55 hosts left)
+Completed SYN Stealth Scan against 192.168.1.161 in 54.08s (54 hosts left)
+Completed SYN Stealth Scan against 192.168.1.137 in 54.10s (53 hosts left)
+Completed SYN Stealth Scan against 192.168.1.141 in 54.11s (52 hosts left)
+Completed SYN Stealth Scan against 192.168.1.190 in 54.15s (51 hosts left)
+Completed SYN Stealth Scan against 192.168.1.132 in 54.16s (50 hosts left)
+Completed SYN Stealth Scan against 192.168.1.178 in 54.17s (49 hosts left)
+Completed SYN Stealth Scan against 192.168.1.135 in 54.28s (48 hosts left)
+Completed SYN Stealth Scan against 192.168.1.160 in 54.28s (47 hosts left)
+Completed SYN Stealth Scan against 192.168.1.177 in 54.29s (46 hosts left)
+Completed SYN Stealth Scan against 192.168.1.138 in 54.30s (45 hosts left)
+Completed SYN Stealth Scan against 192.168.1.173 in 54.30s (44 hosts left)
+Completed SYN Stealth Scan against 192.168.1.142 in 54.31s (43 hosts left)
+Completed SYN Stealth Scan against 192.168.1.150 in 54.31s (42 hosts left)
+Completed SYN Stealth Scan against 192.168.1.183 in 54.31s (41 hosts left)
+Completed SYN Stealth Scan against 192.168.1.191 in 54.31s (40 hosts left)
+Completed SYN Stealth Scan against 192.168.1.155 in 54.32s (39 hosts left)
+Completed SYN Stealth Scan against 192.168.1.157 in 54.32s (38 hosts left)
+Completed SYN Stealth Scan against 192.168.1.130 in 54.32s (37 hosts left)
+Completed SYN Stealth Scan against 192.168.1.133 in 54.32s (36 hosts left)
+Completed SYN Stealth Scan against 192.168.1.134 in 54.32s (35 hosts left)
+Completed SYN Stealth Scan against 192.168.1.143 in 54.32s (34 hosts left)
+Completed SYN Stealth Scan against 192.168.1.156 in 54.38s (33 hosts left)
+Completed SYN Stealth Scan against 192.168.1.185 in 54.38s (32 hosts left)
+Completed SYN Stealth Scan against 192.168.1.182 in 54.49s (31 hosts left)
+Completed SYN Stealth Scan against 192.168.1.152 in 54.50s (30 hosts left)
+Completed SYN Stealth Scan against 192.168.1.163 in 54.50s (29 hosts left)
+Completed SYN Stealth Scan against 192.168.1.165 in 54.50s (28 hosts left)
+Completed SYN Stealth Scan against 192.168.1.174 in 54.50s (27 hosts left)
+Completed SYN Stealth Scan against 192.168.1.144 in 54.50s (26 hosts left)
+Completed SYN Stealth Scan against 192.168.1.158 in 54.50s (25 hosts left)
+Completed SYN Stealth Scan against 192.168.1.147 in 54.51s (24 hosts left)
+Completed SYN Stealth Scan against 192.168.1.188 in 54.51s (23 hosts left)
+Completed SYN Stealth Scan against 192.168.1.176 in 54.51s (22 hosts left)
+Completed SYN Stealth Scan against 192.168.1.154 in 54.51s (21 hosts left)
+Completed SYN Stealth Scan against 192.168.1.172 in 54.51s (20 hosts left)
+Completed SYN Stealth Scan against 192.168.1.167 in 54.52s (19 hosts left)
+Completed SYN Stealth Scan against 192.168.1.149 in 54.52s (18 hosts left)
+Completed SYN Stealth Scan against 192.168.1.162 in 54.52s (17 hosts left)
+Completed SYN Stealth Scan against 192.168.1.164 in 54.52s (16 hosts left)
+Completed SYN Stealth Scan against 192.168.1.179 in 54.52s (15 hosts left)
+Completed SYN Stealth Scan against 192.168.1.128 in 54.53s (14 hosts left)
+Completed SYN Stealth Scan against 192.168.1.153 in 54.53s (13 hosts left)
+Completed SYN Stealth Scan against 192.168.1.168 in 54.53s (12 hosts left)
+Completed SYN Stealth Scan against 192.168.1.148 in 54.53s (11 hosts left)
+Completed SYN Stealth Scan against 192.168.1.169 in 54.53s (10 hosts left)
+Completed SYN Stealth Scan against 192.168.1.181 in 54.53s (9 hosts left)
+Completed SYN Stealth Scan against 192.168.1.170 in 54.57s (8 hosts left)
+Completed SYN Stealth Scan against 192.168.1.175 in 54.58s (7 hosts left)
+Completed SYN Stealth Scan against 192.168.1.187 in 54.58s (6 hosts left)
+Completed SYN Stealth Scan against 192.168.1.129 in 54.59s (5 hosts left)
+Completed SYN Stealth Scan against 192.168.1.159 in 54.59s (4 hosts left)
+Completed SYN Stealth Scan against 192.168.1.180 in 54.59s (3 hosts left)
+Completed SYN Stealth Scan against 192.168.1.186 in 54.59s (2 hosts left)
+Completed SYN Stealth Scan against 192.168.1.146 in 54.69s (1 host left)
+Completed SYN Stealth Scan at 15:17, 54.70s elapsed (64000 total ports)
+Nmap scan report for 192.168.1.128
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.128 are filtered
+
+Nmap scan report for 192.168.1.129
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.129 are filtered
+
+Nmap scan report for 192.168.1.130
+Host is up (0.00087s latency).
+All 1000 scanned ports on 192.168.1.130 are filtered
+
+Nmap scan report for 192.168.1.131
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.131 are filtered
+
+Nmap scan report for 192.168.1.132
+Host is up (0.00091s latency).
+All 1000 scanned ports on 192.168.1.132 are filtered
+
+Nmap scan report for 192.168.1.133
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.133 are filtered
+
+Nmap scan report for 192.168.1.134
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.134 are filtered
+
+Nmap scan report for 192.168.1.135
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.135 are filtered
+
+Nmap scan report for 192.168.1.136
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.136 are filtered
+
+Nmap scan report for 192.168.1.137
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.1.137 are filtered
+
+Nmap scan report for 192.168.1.138
+Host is up (0.00093s latency).
+All 1000 scanned ports on 192.168.1.138 are filtered
+
+Nmap scan report for 192.168.1.139
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.139 are filtered
+
+Nmap scan report for 192.168.1.140
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.140 are filtered
+
+Nmap scan report for 192.168.1.141
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.141 are filtered
+
+Nmap scan report for 192.168.1.142
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.142 are filtered
+
+Nmap scan report for 192.168.1.143
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.143 are filtered
+
+Nmap scan report for 192.168.1.144
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.1.144 are filtered
+
+Nmap scan report for 192.168.1.145
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.145 are filtered
+
+Nmap scan report for 192.168.1.146
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.146 are filtered
+
+Nmap scan report for 192.168.1.147
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.147 are filtered
+
+Nmap scan report for 192.168.1.148
+Host is up (0.00072s latency).
+All 1000 scanned ports on 192.168.1.148 are filtered
+
+Nmap scan report for 192.168.1.149
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.149 are filtered
+
+Nmap scan report for 192.168.1.150
+Host is up (0.00073s latency).
+All 1000 scanned ports on 192.168.1.150 are filtered
+
+Nmap scan report for 192.168.1.151
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.151 are filtered
+
+Nmap scan report for 192.168.1.152
+Host is up (0.00100s latency).
+All 1000 scanned ports on 192.168.1.152 are filtered
+
+Nmap scan report for 192.168.1.153
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.153 are filtered
+
+Nmap scan report for 192.168.1.154
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.154 are filtered
+
+Nmap scan report for 192.168.1.155
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.155 are filtered
+
+Nmap scan report for 192.168.1.156
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.156 are filtered
+
+Nmap scan report for 192.168.1.157
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.157 are filtered
+
+Nmap scan report for 192.168.1.158
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.158 are filtered
+
+Nmap scan report for 192.168.1.159
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.159 are filtered
+
+Nmap scan report for 192.168.1.160
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.160 are filtered
+
+Nmap scan report for 192.168.1.161
+Host is up (0.00076s latency).
+All 1000 scanned ports on 192.168.1.161 are filtered
+
+Nmap scan report for 192.168.1.162
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.162 are filtered
+
+Nmap scan report for 192.168.1.163
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.163 are filtered
+
+Nmap scan report for 192.168.1.164
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.164 are filtered
+
+Nmap scan report for 192.168.1.165
+Host is up (0.00073s latency).
+All 1000 scanned ports on 192.168.1.165 are filtered
+
+Nmap scan report for 192.168.1.166
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.166 are filtered
+
+Nmap scan report for 192.168.1.167
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.167 are filtered
+
+Nmap scan report for 192.168.1.168
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.168 are filtered
+
+Nmap scan report for 192.168.1.169
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.169 are filtered
+
+Nmap scan report for 192.168.1.170
+Host is up (0.00083s latency).
+All 1000 scanned ports on 192.168.1.170 are filtered
+
+Nmap scan report for 192.168.1.171
+Host is up (0.00078s latency).
+All 1000 scanned ports on 192.168.1.171 are filtered
+
+Nmap scan report for 192.168.1.172
+Host is up (0.00087s latency).
+All 1000 scanned ports on 192.168.1.172 are filtered
+
+Nmap scan report for 192.168.1.173
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.173 are filtered
+
+Nmap scan report for 192.168.1.174
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.174 are filtered
+
+Nmap scan report for 192.168.1.175
+Host is up (0.00081s latency).
+All 1000 scanned ports on 192.168.1.175 are filtered
+
+Nmap scan report for 192.168.1.176
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.176 are filtered
+
+Nmap scan report for 192.168.1.177
+Host is up (0.00088s latency).
+All 1000 scanned ports on 192.168.1.177 are filtered
+
+Nmap scan report for 192.168.1.178
+Host is up (0.00065s latency).
+All 1000 scanned ports on 192.168.1.178 are filtered
+
+Nmap scan report for 192.168.1.179
+Host is up (0.00065s latency).
+All 1000 scanned ports on 192.168.1.179 are filtered
+
+Nmap scan report for 192.168.1.180
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.180 are filtered
+
+Nmap scan report for 192.168.1.181
+Host is up (0.00098s latency).
+All 1000 scanned ports on 192.168.1.181 are filtered
+
+Nmap scan report for 192.168.1.182
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.182 are filtered
+
+Nmap scan report for 192.168.1.183
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.183 are filtered
+
+Nmap scan report for 192.168.1.184
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.184 are filtered
+
+Nmap scan report for 192.168.1.185
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.1.185 are filtered
+
+Nmap scan report for 192.168.1.186
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.1.186 are filtered
+
+Nmap scan report for 192.168.1.187
+Host is up (0.00079s latency).
+All 1000 scanned ports on 192.168.1.187 are filtered
+
+Nmap scan report for 192.168.1.188
+Host is up (0.00068s latency).
+All 1000 scanned ports on 192.168.1.188 are filtered
+
+Nmap scan report for 192.168.1.189
+Host is up (0.00072s latency).
+All 1000 scanned ports on 192.168.1.189 are filtered
+
+Nmap scan report for 192.168.1.190
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.190 are filtered
+
+Nmap scan report for 192.168.1.191
+Host is up (0.00062s latency).
+All 1000 scanned ports on 192.168.1.191 are filtered
+
+Initiating SYN Stealth Scan at 15:17
+Scanning 64 hosts [1000 ports/host]
+Completed SYN Stealth Scan against 192.168.1.218 in 52.94s (63 hosts left)
+Completed SYN Stealth Scan against 192.168.1.196 in 52.95s (62 hosts left)
+Completed SYN Stealth Scan against 192.168.1.219 in 52.95s (61 hosts left)
+Completed SYN Stealth Scan against 192.168.1.251 in 53.13s (60 hosts left)
+Completed SYN Stealth Scan against 192.168.1.199 in 53.16s (59 hosts left)
+Completed SYN Stealth Scan against 192.168.1.220 in 53.27s (58 hosts left)
+Completed SYN Stealth Scan against 192.168.1.209 in 53.30s (57 hosts left)
+Completed SYN Stealth Scan against 192.168.1.197 in 53.34s (56 hosts left)
+Completed SYN Stealth Scan against 192.168.1.221 in 53.34s (55 hosts left)
+Completed SYN Stealth Scan against 192.168.1.242 in 53.37s (54 hosts left)
+Completed SYN Stealth Scan against 192.168.1.198 in 53.39s (53 hosts left)
+Completed SYN Stealth Scan against 192.168.1.205 in 53.48s (52 hosts left)
+Completed SYN Stealth Scan against 192.168.1.210 in 53.52s (51 hosts left)
+Completed SYN Stealth Scan against 192.168.1.255 in 53.52s (50 hosts left)
+Completed SYN Stealth Scan against 192.168.1.195 in 53.54s (49 hosts left)
+Completed SYN Stealth Scan against 192.168.1.208 in 53.54s (48 hosts left)
+Completed SYN Stealth Scan against 192.168.1.194 in 53.55s (47 hosts left)
+Completed SYN Stealth Scan against 192.168.1.217 in 53.55s (46 hosts left)
+Completed SYN Stealth Scan against 192.168.1.232 in 53.56s (45 hosts left)
+Completed SYN Stealth Scan against 192.168.1.243 in 53.56s (44 hosts left)
+Completed SYN Stealth Scan against 192.168.1.231 in 53.57s (43 hosts left)
+Completed SYN Stealth Scan against 192.168.1.222 in 53.57s (42 hosts left)
+Completed SYN Stealth Scan against 192.168.1.241 in 53.58s (41 hosts left)
+Completed SYN Stealth Scan against 192.168.1.248 in 53.58s (40 hosts left)
+Completed SYN Stealth Scan against 192.168.1.249 in 53.72s (39 hosts left)
+Completed SYN Stealth Scan against 192.168.1.212 in 53.73s (38 hosts left)
+Completed SYN Stealth Scan against 192.168.1.239 in 53.73s (37 hosts left)
+Completed SYN Stealth Scan against 192.168.1.244 in 53.73s (36 hosts left)
+Completed SYN Stealth Scan against 192.168.1.216 in 53.74s (35 hosts left)
+Completed SYN Stealth Scan against 192.168.1.250 in 53.75s (34 hosts left)
+Completed SYN Stealth Scan against 192.168.1.213 in 53.76s (33 hosts left)
+Completed SYN Stealth Scan against 192.168.1.227 in 53.76s (32 hosts left)
+Completed SYN Stealth Scan against 192.168.1.238 in 53.76s (31 hosts left)
+Completed SYN Stealth Scan against 192.168.1.204 in 53.77s (30 hosts left)
+Completed SYN Stealth Scan against 192.168.1.214 in 53.77s (29 hosts left)
+Completed SYN Stealth Scan against 192.168.1.224 in 53.77s (28 hosts left)
+Completed SYN Stealth Scan against 192.168.1.215 in 53.77s (27 hosts left)
+Completed SYN Stealth Scan against 192.168.1.252 in 53.77s (26 hosts left)
+Completed SYN Stealth Scan against 192.168.1.192 in 53.78s (25 hosts left)
+Completed SYN Stealth Scan against 192.168.1.200 in 53.78s (24 hosts left)
+Completed SYN Stealth Scan against 192.168.1.193 in 53.78s (23 hosts left)
+Completed SYN Stealth Scan against 192.168.1.225 in 53.78s (22 hosts left)
+Completed SYN Stealth Scan against 192.168.1.254 in 53.80s (21 hosts left)
+Completed SYN Stealth Scan against 192.168.1.211 in 53.82s (20 hosts left)
+Completed SYN Stealth Scan against 192.168.1.233 in 53.82s (19 hosts left)
+Completed SYN Stealth Scan against 192.168.1.223 in 53.83s (18 hosts left)
+Completed SYN Stealth Scan against 192.168.1.226 in 53.83s (17 hosts left)
+Completed SYN Stealth Scan against 192.168.1.247 in 53.92s (16 hosts left)
+Completed SYN Stealth Scan against 192.168.1.230 in 53.92s (15 hosts left)
+Completed SYN Stealth Scan against 192.168.1.237 in 53.92s (14 hosts left)
+Completed SYN Stealth Scan against 192.168.1.201 in 53.93s (13 hosts left)
+Completed SYN Stealth Scan against 192.168.1.202 in 53.93s (12 hosts left)
+Completed SYN Stealth Scan against 192.168.1.206 in 53.93s (11 hosts left)
+Completed SYN Stealth Scan against 192.168.1.207 in 53.93s (10 hosts left)
+Completed SYN Stealth Scan against 192.168.1.234 in 53.93s (9 hosts left)
+Completed SYN Stealth Scan against 192.168.1.240 in 53.94s (8 hosts left)
+Completed SYN Stealth Scan against 192.168.1.253 in 53.94s (7 hosts left)
+Completed SYN Stealth Scan against 192.168.1.235 in 53.94s (6 hosts left)
+Completed SYN Stealth Scan against 192.168.1.228 in 53.94s (5 hosts left)
+Completed SYN Stealth Scan against 192.168.1.245 in 53.95s (4 hosts left)
+Completed SYN Stealth Scan against 192.168.1.246 in 53.95s (3 hosts left)
+Completed SYN Stealth Scan against 192.168.1.203 in 53.95s (2 hosts left)
+Completed SYN Stealth Scan against 192.168.1.229 in 53.95s (1 host left)
+Completed SYN Stealth Scan at 15:18, 53.95s elapsed (64000 total ports)
+Nmap scan report for 192.168.1.192
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.192 are filtered
+
+Nmap scan report for 192.168.1.193
+Host is up (0.00086s latency).
+All 1000 scanned ports on 192.168.1.193 are filtered
+
+Nmap scan report for 192.168.1.194
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.194 are filtered
+
+Nmap scan report for 192.168.1.195
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.195 are filtered
+
+Nmap scan report for 192.168.1.196
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.196 are filtered
+
+Nmap scan report for 192.168.1.197
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.197 are filtered
+
+Nmap scan report for 192.168.1.198
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.198 are filtered
+
+Nmap scan report for 192.168.1.199
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.199 are filtered
+
+Nmap scan report for 192.168.1.200
+Host is up (0.00095s latency).
+All 1000 scanned ports on 192.168.1.200 are filtered
+
+Nmap scan report for 192.168.1.201
+Host is up (0.00088s latency).
+All 1000 scanned ports on 192.168.1.201 are filtered
+
+Nmap scan report for 192.168.1.202
+Host is up (0.00089s latency).
+All 1000 scanned ports on 192.168.1.202 are filtered
+
+Nmap scan report for 192.168.1.203
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.203 are filtered
+
+Nmap scan report for 192.168.1.204
+Host is up (0.00098s latency).
+All 1000 scanned ports on 192.168.1.204 are filtered
+
+Nmap scan report for 192.168.1.205
+Host is up (0.00088s latency).
+All 1000 scanned ports on 192.168.1.205 are filtered
+
+Nmap scan report for 192.168.1.206
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.206 are filtered
+
+Nmap scan report for 192.168.1.207
+Host is up (0.00099s latency).
+All 1000 scanned ports on 192.168.1.207 are filtered
+
+Nmap scan report for 192.168.1.208
+Host is up (0.00083s latency).
+All 1000 scanned ports on 192.168.1.208 are filtered
+
+Nmap scan report for 192.168.1.209
+Host is up (0.00082s latency).
+All 1000 scanned ports on 192.168.1.209 are filtered
+
+Nmap scan report for 192.168.1.210
+Host is up (0.00083s latency).
+All 1000 scanned ports on 192.168.1.210 are filtered
+
+Nmap scan report for 192.168.1.211
+Host is up (0.00083s latency).
+All 1000 scanned ports on 192.168.1.211 are filtered
+
+Nmap scan report for 192.168.1.212
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.212 are filtered
+
+Nmap scan report for 192.168.1.213
+Host is up (0.00087s latency).
+All 1000 scanned ports on 192.168.1.213 are filtered
+
+Nmap scan report for 192.168.1.214
+Host is up (0.00066s latency).
+All 1000 scanned ports on 192.168.1.214 are filtered
+
+Nmap scan report for 192.168.1.215
+Host is up (0.00085s latency).
+All 1000 scanned ports on 192.168.1.215 are filtered
+
+Nmap scan report for 192.168.1.216
+Host is up (0.00091s latency).
+All 1000 scanned ports on 192.168.1.216 are filtered
+
+Nmap scan report for 192.168.1.217
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.217 are filtered
+
+Nmap scan report for 192.168.1.218
+Host is up (0.00068s latency).
+All 1000 scanned ports on 192.168.1.218 are filtered
+
+Nmap scan report for 192.168.1.219
+Host is up (0.00082s latency).
+All 1000 scanned ports on 192.168.1.219 are filtered
+
+Nmap scan report for 192.168.1.220
+Host is up (0.00065s latency).
+All 1000 scanned ports on 192.168.1.220 are filtered
+
+Nmap scan report for 192.168.1.221
+Host is up (0.00069s latency).
+All 1000 scanned ports on 192.168.1.221 are filtered
+
+Nmap scan report for 192.168.1.222
+Host is up (0.00071s latency).
+All 1000 scanned ports on 192.168.1.222 are filtered
+
+Nmap scan report for 192.168.1.223
+Host is up (0.00073s latency).
+All 1000 scanned ports on 192.168.1.223 are filtered
+
+Nmap scan report for 192.168.1.224
+Host is up (0.00060s latency).
+All 1000 scanned ports on 192.168.1.224 are filtered
+
+Nmap scan report for 192.168.1.225
+Host is up (0.00064s latency).
+All 1000 scanned ports on 192.168.1.225 are filtered
+
+Nmap scan report for 192.168.1.226
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.226 are filtered
+
+Nmap scan report for 192.168.1.227
+Host is up (0.00090s latency).
+All 1000 scanned ports on 192.168.1.227 are filtered
+
+Nmap scan report for 192.168.1.228
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.228 are filtered
+
+Nmap scan report for 192.168.1.229
+Host is up (0.00061s latency).
+All 1000 scanned ports on 192.168.1.229 are filtered
+
+Nmap scan report for 192.168.1.230
+Host is up (0.00072s latency).
+All 1000 scanned ports on 192.168.1.230 are filtered
+
+Nmap scan report for 192.168.1.231
+Host is up (0.00080s latency).
+All 1000 scanned ports on 192.168.1.231 are filtered
+
+Nmap scan report for 192.168.1.232
+Host is up (0.00078s latency).
+All 1000 scanned ports on 192.168.1.232 are filtered
+
+Nmap scan report for 192.168.1.233
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.233 are filtered
+
+Nmap scan report for 192.168.1.234
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.234 are filtered
+
+Nmap scan report for 192.168.1.235
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.235 are filtered
+
+Nmap scan report for 192.168.1.236
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.236 are filtered
+
+Nmap scan report for 192.168.1.237
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.237 are filtered
+
+Nmap scan report for 192.168.1.238
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.238 are filtered
+
+Nmap scan report for 192.168.1.239
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.239 are filtered
+
+Nmap scan report for 192.168.1.240
+Host is up (0.0012s latency).
+All 1000 scanned ports on 192.168.1.240 are filtered
+
+Nmap scan report for 192.168.1.241
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.241 are filtered
+
+Nmap scan report for 192.168.1.242
+Host is up (0.0013s latency).
+All 1000 scanned ports on 192.168.1.242 are filtered
+
+Nmap scan report for 192.168.1.243
+Host is up (0.00092s latency).
+All 1000 scanned ports on 192.168.1.243 are filtered
+
+Nmap scan report for 192.168.1.244
+Host is up (0.00085s latency).
+All 1000 scanned ports on 192.168.1.244 are filtered
+
+Nmap scan report for 192.168.1.245
+Host is up (0.00074s latency).
+All 1000 scanned ports on 192.168.1.245 are filtered
+
+Nmap scan report for 192.168.1.246
+Host is up (0.00075s latency).
+All 1000 scanned ports on 192.168.1.246 are filtered
+
+Nmap scan report for 192.168.1.247
+Host is up (0.0013s latency).
+All 1000 scanned ports on 192.168.1.247 are filtered
+
+Nmap scan report for 192.168.1.248
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.248 are filtered
+
+Nmap scan report for 192.168.1.249
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.249 are filtered
+
+Nmap scan report for 192.168.1.250
+Host is up (0.0010s latency).
+All 1000 scanned ports on 192.168.1.250 are filtered
+
+Nmap scan report for 192.168.1.251
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.251 are filtered
+
+Nmap scan report for 192.168.1.252
+Host is up (0.00077s latency).
+All 1000 scanned ports on 192.168.1.252 are filtered
+
+Nmap scan report for 192.168.1.253
+Host is up (0.00070s latency).
+All 1000 scanned ports on 192.168.1.253 are filtered
+
+Nmap scan report for 192.168.1.254
+Host is up (0.00094s latency).
+All 1000 scanned ports on 192.168.1.254 are filtered
+
+Nmap scan report for 192.168.1.255
+Host is up (0.00084s latency).
+All 1000 scanned ports on 192.168.1.255 are filtered
+
+Read data files from: /usr/bin/../share/nmap
+Nmap done: 256 IP addresses (256 hosts up) scanned in 286.80 seconds
+           Raw packets sent: 524046 (23.005MB) | Rcvd: 10739 (436.059KB)
+
+

@@ -1,0 +1,3 @@
+Option 10 result:
+Network Startup Successful
+

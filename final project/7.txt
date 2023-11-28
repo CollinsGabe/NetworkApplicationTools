@@ -1,0 +1,10 @@
+Option 7 result:
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-11-28 15:12 EST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 52.27 seconds
+
+
+Option 7 result:
+Starting Nmap 7.80 ( https://nmap.org ) at 2023-11-28 15:52 EST
+Nmap done: 256 IP addresses (0 hosts up) scanned in 52.39 seconds
+
+
